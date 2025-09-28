@@ -38,6 +38,7 @@ WECHAT_TARGET = "文件传输助手"  # WeChat target
 ## Requirements
 - Python 3.7+
 - WeChat PC app (running and logged in)
+- **WeChat version below 4.1 is required** (newer versions may not work with wxauto)
 - Telegram account
 
 ## Authentication
@@ -59,6 +60,7 @@ Hello, this is a test message!
 
 **WeChat connection failed:**
 - Ensure WeChat PC app is running and logged in
+- **Use WeChat version below 4.1** (newer versions incompatible with wxauto)
 - Check target contact/group name exists
 
 **Telegram connection failed:**
