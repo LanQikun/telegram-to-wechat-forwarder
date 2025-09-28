@@ -33,6 +33,10 @@ API_HASH = "your_api_hash"
 PHONE_NUMBER = "+1234567890"
 CHANNEL_ID = -1001234567890  # Channel to monitor
 WECHAT_TARGET = "文件传输助手"  # WeChat target
+PROXY_ENABLED = False
+PROXY_TYPE = "socks5"
+PROXY_HOST = "127.0.0.1"
+PROXY_PORT = 7890
 ```
 
 ## Requirements
