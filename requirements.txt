@@ -1,0 +1,4 @@
+telethon>=1.41.2
+requests>=2.32.5
+PySocks>=1.7.1
+wxauto>=3.3.0
